@@ -10,4 +10,4 @@ The original dataset consisted of 162 whole mount slide images of Breast Cancer 
 
 Breast cancer is the most common form of cancer in women, and invasive ductal carcinoma (IDC) is the most common form of breast cancer. Accurately identifying and categorizing breast cancer subtypes is an important clinical task, and automated methods can be used to save time and reduce error.
 
-**Adrian Rosebrock** of **PyImageSearch** has [this wonderful tutorial](https://www.pyimagesearch.com/2019/02/18/breast-cancer-classification-with-keras-and-deep-learning/) on this same topic as well. Be sure to check that out if you have not. I decided to use the `fastai` library and to see how could I improve the predictive performance by incoporating modern deep learning practices. 
+**Adrian Rosebrock** of **PyImageSearch** has [this wonderful tutorial](https://www.pyimagesearch.com/2019/02/18/breast-cancer-classification-with-keras-and-deep-learning/) on this same topic as well. Be sure to check that out if you have not. I decided to use the `fastai` library and to see how could I improve the predictive performance by incorporating modern deep learning practices. 
